@@ -8,7 +8,8 @@ Each folder is a self-contained project with its own notebook/code and README.
  
 | Project | Description |
 |---|---|
-| [house-price-prediction](./01_house_price_prediction.ipynb) | Regression on Kaggle's House Prices dataset. Data cleaning, feature engineering, and model comparison (Linear, Ridge, Lasso, Random Forest, Gradient Boosting). | ....to be continued
+| [house-price-prediction](./01_house_price_prediction.ipynb) | Regression on Kaggle's House Prices dataset. Data cleaning, feature engineering, and model comparison (Linear, Ridge, Lasso, Random Forest, Gradient Boosting). |
+| [house-price-prediction](./01_house_price_prediction.ipynb) | Regression on Kaggle's House Prices dataset. Data cleaning, feature engineering, and model comparison (Linear, Ridge, Lasso, Random Forest, Gradient Boosting). |
  
 ## Stack
  
